@@ -1,2 +1,2 @@
-# twice-tribute-page
-Tribute page for TWICE
+# iz*one-tribute-page
+Tribute page for IZ*ONE
